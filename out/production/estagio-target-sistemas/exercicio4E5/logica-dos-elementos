@@ -1,0 +1,24 @@
+4-
+    a) 1,3,5,7,___ = 9
+    Resposta: soma 2 a cada elemento, sendo assim sera 9.
+
+    b) 2,4,8,16,32,64,___ = 128
+    Resposta: multiplica o numero por 2, descobrirar o proximo da sequencia.
+
+    c) 0, 1, 4, 9, 16, 25, 36, ___ = 49
+    Resposta: é o numero em ordem crescente multiplicado ao quadrado.
+
+    d) 4, 16, 36, 64, ___ = 100
+    Resposta: de 2 em 2 vai multiplicando ao quadrado, ex 2^2 = 4, 4^2 = 16.
+
+    e) 1, 1, 2, 3, 5, 8, ___ = 13
+    Resposta: semelhante a sequencia de Fibonacci, pega o valor e soma com o anterior
+
+    f) 2,10, 12, 16, 17, 18, 19, ___ = 200
+    Resposta: representa os numeros que começam com a letra d.
+
+5) Resposta:ligo os 2 primeiros interruptores verifica as salas, encontrarei 1 sala apagada e 2 salas acessas.
+   retorna a salas dos interruptores voce sabera qual é o da sala que não acendeu a luz e apaga o 1 interruptor que ligou
+   e volta para uma das salas acessas inicialmente, se ela estiver acessa o 1 interruptor corresponde a outra sala acessa e o da verificada o 2,
+   caso esteja apagado voce desligou o dessa sala e sabe qual é o da outra que acendeu. Descobrindo assim qual interruptor corresponde a cada sala
+   so podendo entra 2 vezes na mesma sala.
